@@ -1,4 +1,4 @@
-# Notes for CSE 190
+# CSE 190 FA24 Notes
 
 ## Week 1
 Article 1:
